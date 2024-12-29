@@ -20,7 +20,7 @@ Below is the flow and the script,
 
 
 
-## CSV_EXCEL _combiner.py
+## CSV_EXCEL_combiner.py
 This script is created to combine all my list of CSV's into one excel file
 Requirements for the Script to work
 ```
